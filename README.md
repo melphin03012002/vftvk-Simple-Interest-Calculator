@@ -1,1 +1,1 @@
-# coding-project-template
+# IBM-coding-project-SIMPLE_INTEREST_CALCULATOR
